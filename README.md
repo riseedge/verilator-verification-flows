@@ -68,7 +68,7 @@ Each design supports **four verification flows** with identical functional inten
 * Suitable for simple, procedural testbenches
 
 <!-- > **Diagram placeholder** -->
-![SV Flow](/Verilator_examples/images/LP1_basic_SV.png)
+![SV Flow](/images/LP1_basic_SV.png)
 
 ---
 
@@ -81,7 +81,7 @@ Each design supports **four verification flows** with identical functional inten
 This is one of the most Verilator-native and performance-oriented flows.
 
 <!-- > **Diagram placeholder** -->
-![C++ Flow](/Verilator_examples/images/LP1_c++.png)
+![C++ Flow](/images/LP1_c++.png)
 
 ---
 
@@ -93,7 +93,7 @@ This is one of the most Verilator-native and performance-oriented flows.
 * Enables rapid scripting, assertions, and reuse
 
 <!-- > **Diagram placeholder** -->
-![Python Flow](/Verilator_examples/images/LP1_py.png)
+![Python Flow](/images/LP1_py.png)
 
 ---
 
@@ -105,7 +105,7 @@ This is one of the most Verilator-native and performance-oriented flows.
 * Demonstrates how UVM-style methodology can coexist with Verilator
 
 <!-- > **Diagram placeholder** -->
-![PyUVM Flow](/Verilator_examples/images/LP1_pyuvm.png)
+![PyUVM Flow](/images/LP1_pyuvm.png)
 
 ---
 
