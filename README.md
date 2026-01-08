@@ -31,34 +31,6 @@ The goal is not to compare languages stylistically, but to **illustrate how Veri
 
 ---
 
-## Repository Structure
-
-```text
-Verilator_examples/
-├── Makefile
-├── mux_2x1/
-│   ├── rtl/
-│   │   └── mux_2x1.sv
-│   └── tb/
-│       ├── tb_mux_cpp.cpp
-│       ├── tb_mux_sv.sv
-│       ├── tb_mux_py.py
-│       └── tb_mux_pyuvm.py
-│
-└── counter_4bit/
-    ├── rtl/
-    │   └── counter.sv
-    └── tb/
-        ├── tb_counter_cpp.cpp
-        ├── tb_counter_sv.sv
-        ├── tb_counter_py.py
-        └── tb_counter_pyuvm.py
-```
-
-Each design supports **four verification flows** with identical functional intent.
-
----
-
 ## Verification Flows Overview
 
 ### 1. SystemVerilog Testbench (SV)
