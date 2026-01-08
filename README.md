@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/workspaces/Projects/assets/rise_edge_full_logo.png" width="900">
+  <img src="/images/logo.png" width="900">
 </p>
 
 <p align="center">
