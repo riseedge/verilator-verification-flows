@@ -162,7 +162,8 @@ make clean PROJ=counter_4bit
 ---
 
 ## References
-
+* Article Link :
+  [https://docs.google.com/document/d/1wWM-TSg8v2ZLHn-e_biXQlAkZuEKdb_Xuw33ahUuOhY/edit?usp=sharing]
 * Verilator Documentation:
   [https://verilator.org/guide/latest/](https://verilator.org/guide/latest/)
 * cocotb Documentation:
