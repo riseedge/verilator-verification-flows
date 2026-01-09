@@ -20,7 +20,7 @@
 
 In this repository we explore how **Verilator** can be used as a **common simulation engine** across multiple verification styles and languages.
 
-Using two simple designs—a **2×1 multiplexer** and a **4-bit counter**—we show how the *same RTL* can be verified using:
+Using two simple designs a **2×1 multiplexer** and a **4-bit counter** we show how the same RTL can be verified using:
 
 * SystemVerilog testbenches
 * Native C++ testbenches
