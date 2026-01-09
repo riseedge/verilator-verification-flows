@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Exploring Verilator as a Simulation Engine Across Verification Flows</b><br>
+  <b>Exploring Open-source Verilator tool</b><br>
   SystemVerilog • C++ • cocotb • pyuvm
 </p>
 
