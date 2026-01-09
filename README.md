@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Exploring Open-source Verilator tool</b><br>
+  <b>Exploring Open-Source Verification with Verilator tool</b><br>
   SystemVerilog • C++ • cocotb • pyuvm
 </p>
 
