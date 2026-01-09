@@ -27,7 +27,7 @@ Using two simple designs—a **2×1 multiplexer** and a **4-bit counter**—we s
 * Python-based verification with **cocotb**
 * UVM-style verification in Python using **pyuvm**
 
-The goal is not to compare languages stylistically, but to **illustrate how Verilator handles each flow internally** and where the verification logic actually runs.
+
 
 ---
 
