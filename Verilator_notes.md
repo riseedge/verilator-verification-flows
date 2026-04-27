@@ -1,8 +1,6 @@
 # Verilator 5.x Guidebook — From Design to Verification
 
 > **Version target:** Verilator 5.x (latest devel: 5.047, April 2026)
-> **Format:** Cheat-sheet / quick-reference — tables, commands, gotchas
-> **Audience:** Design & verification engineers moving to or working daily with Verilator
 
 ---
 
@@ -773,4 +771,4 @@ verilator_gantt prof.dat > gantt.vcd
 
 ---
 
-*Generated for Verilator 5.x (devel 5.047, April 2026). Always check `verilator --version` and the [official docs](https://verilator.org/guide/latest/) for the latest features and flags.*
+*Updated for Verilator 5.x (devel 5.047, April 2026). Always check `verilator --version` and the [official docs](https://verilator.org/guide/latest/) for the latest features and flags.*
